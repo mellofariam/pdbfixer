@@ -3946,217 +3946,217 @@
   </Residue>
  </Residues>
  <HarmonicBondForce>
-  <Bond class1="C" class2="C" length="0.1525" k="10000"/>
-  <Bond class1="C" class2="CA" length="0.1409" k="10000"/>
-  <Bond class1="C" class2="CB" length="0.1419" k="10000"/>
-  <Bond class1="C" class2="CM" length="0.1444" k="10000"/>
-  <Bond class1="C" class2="CT" length="0.1522" k="10000"/>
-  <Bond class1="C" class2="N" length="0.1335" k="10000"/>
-  <Bond class1="C" class2="N*" length="0.1383" k="10000"/>
-  <Bond class1="C" class2="NA" length="0.1388" k="10000"/>
-  <Bond class1="C" class2="NC" length="0.1358" k="10000"/>
-  <Bond class1="C" class2="O" length="0.1229" k="10000"/>
-  <Bond class1="C" class2="O2" length="0.125" k="10000"/>
-  <Bond class1="C" class2="OH" length="0.1364" k="10000"/>
-  <Bond class1="C" class2="OS" length="0.1323" k="10000"/>
-  <Bond class1="CA" class2="CA" length="0.14" k="10000"/>
-  <Bond class1="CA" class2="CB" length="0.1404" k="10000"/>
-  <Bond class1="CA" class2="CM" length="0.1433" k="10000"/>
-  <Bond class1="CA" class2="CN" length="0.14" k="10000"/>
-  <Bond class1="CA" class2="CT" length="0.151" k="10000"/>
-  <Bond class1="CA" class2="N2" length="0.134" k="10000"/>
-  <Bond class1="CA" class2="NA" length="0.1381" k="10000"/>
-  <Bond class1="CA" class2="NC" length="0.1339" k="10000"/>
-  <Bond class1="CA" class2="OH" length="0.1364" k="10000"/>
-  <Bond class1="CB" class2="CB" length="0.137" k="10000"/>
-  <Bond class1="CB" class2="N*" length="0.1374" k="10000"/>
-  <Bond class1="CB" class2="NB" length="0.1391" k="10000"/>
-  <Bond class1="CB" class2="NC" length="0.1354" k="10000"/>
-  <Bond class1="CK" class2="N*" length="0.1371" k="10000"/>
-  <Bond class1="CK" class2="NB" length="0.1304" k="10000"/>
-  <Bond class1="CM" class2="CM" length="0.135" k="10000"/>
-  <Bond class1="CM" class2="CT" length="0.151" k="10000"/>
-  <Bond class1="CM" class2="N*" length="0.1365" k="10000"/>
-  <Bond class1="CM" class2="OS" length="0.124" k="10000"/>
-  <Bond class1="CQ" class2="NC" length="0.1324" k="10000"/>
-  <Bond class1="CT" class2="CT" length="0.1526" k="10000"/>
-  <Bond class1="CT" class2="N*" length="0.1475" k="10000"/>
-  <Bond class1="CT" class2="N2" length="0.1463" k="10000"/>
-  <Bond class1="CT" class2="OH" length="0.141" k="10000"/>
-  <Bond class1="CT" class2="OS" length="0.141" k="10000"/>
-  <Bond class1="C*" class2="CB" length="0.1459" k="10000"/>
-  <Bond class1="C*" class2="CT" length="0.1495" k="10000"/>
-  <Bond class1="C*" class2="CW" length="0.1352" k="10000"/>
-  <Bond class1="CB" class2="CN" length="0.1419" k="10000"/>
-  <Bond class1="CC" class2="CT" length="0.1504" k="10000"/>
-  <Bond class1="CC" class2="CV" length="0.1375" k="10000"/>
-  <Bond class1="CC" class2="CW" length="0.1371" k="10000"/>
-  <Bond class1="CC" class2="NA" length="0.1385" k="10000"/>
-  <Bond class1="CC" class2="NB" length="0.1394" k="10000"/>
-  <Bond class1="CN" class2="NA" length="0.138" k="10000"/>
-  <Bond class1="CR" class2="NA" length="0.1343" k="10000"/>
-  <Bond class1="CR" class2="NB" length="0.1335" k="10000"/>
-  <Bond class1="CT" class2="N" length="0.1449" k="10000"/>
-  <Bond class1="CT" class2="N3" length="0.1471" k="10000"/>
-  <Bond class1="CT" class2="S" length="0.181" k="10000"/>
-  <Bond class1="CT" class2="SH" length="0.181" k="10000"/>
-  <Bond class1="CV" class2="NB" length="0.1394" k="10000"/>
-  <Bond class1="CW" class2="NA" length="0.1381" k="10000"/>
-  <Bond class1="O2" class2="P" length="0.148" k="10000"/>
-  <Bond class1="OH" class2="P" length="0.161" k="10000"/>
-  <Bond class1="OS" class2="P" length="0.161" k="10000"/>
-  <Bond class1="S" class2="S" length="0.2038" k="10000"/>
-  <Bond class1="CT" class2="C3" length="0.1526" k="10000"/>
-  <Bond class1="CT" class2="C4" length="0.1526" k="10000"/>
-  <Bond class1="C6" class2="O2" length="0.125" k="10000"/>
-  <Bond class1="CC" class2="O2" length="0.125" k="10000"/>
-  <Bond class1="C5" class2="O" length="0.1229" k="10000"/>
-  <Bond class1="C5" class2="N" length="0.1335" k="10000"/>
-  <Bond class1="C5" class2="CT" length="0.1522" k="10000"/>
-  <Bond class1="C6" class2="CT" length="0.1522" k="10000"/>
+  <Bond class1="C" class2="C" length="0.1525" k="100000"/>
+  <Bond class1="C" class2="CA" length="0.1409" k="100000"/>
+  <Bond class1="C" class2="CB" length="0.1419" k="100000"/>
+  <Bond class1="C" class2="CM" length="0.1444" k="100000"/>
+  <Bond class1="C" class2="CT" length="0.1522" k="100000"/>
+  <Bond class1="C" class2="N" length="0.1335" k="100000"/>
+  <Bond class1="C" class2="N*" length="0.1383" k="100000"/>
+  <Bond class1="C" class2="NA" length="0.1388" k="100000"/>
+  <Bond class1="C" class2="NC" length="0.1358" k="100000"/>
+  <Bond class1="C" class2="O" length="0.1229" k="100000"/>
+  <Bond class1="C" class2="O2" length="0.125" k="100000"/>
+  <Bond class1="C" class2="OH" length="0.1364" k="100000"/>
+  <Bond class1="C" class2="OS" length="0.1323" k="100000"/>
+  <Bond class1="CA" class2="CA" length="0.14" k="100000"/>
+  <Bond class1="CA" class2="CB" length="0.1404" k="100000"/>
+  <Bond class1="CA" class2="CM" length="0.1433" k="100000"/>
+  <Bond class1="CA" class2="CN" length="0.14" k="100000"/>
+  <Bond class1="CA" class2="CT" length="0.151" k="100000"/>
+  <Bond class1="CA" class2="N2" length="0.134" k="100000"/>
+  <Bond class1="CA" class2="NA" length="0.1381" k="100000"/>
+  <Bond class1="CA" class2="NC" length="0.1339" k="100000"/>
+  <Bond class1="CA" class2="OH" length="0.1364" k="100000"/>
+  <Bond class1="CB" class2="CB" length="0.137" k="100000"/>
+  <Bond class1="CB" class2="N*" length="0.1374" k="100000"/>
+  <Bond class1="CB" class2="NB" length="0.1391" k="100000"/>
+  <Bond class1="CB" class2="NC" length="0.1354" k="100000"/>
+  <Bond class1="CK" class2="N*" length="0.1371" k="100000"/>
+  <Bond class1="CK" class2="NB" length="0.1304" k="100000"/>
+  <Bond class1="CM" class2="CM" length="0.135" k="100000"/>
+  <Bond class1="CM" class2="CT" length="0.151" k="100000"/>
+  <Bond class1="CM" class2="N*" length="0.1365" k="100000"/>
+  <Bond class1="CM" class2="OS" length="0.124" k="100000"/>
+  <Bond class1="CQ" class2="NC" length="0.1324" k="100000"/>
+  <Bond class1="CT" class2="CT" length="0.1526" k="100000"/>
+  <Bond class1="CT" class2="N*" length="0.1475" k="100000"/>
+  <Bond class1="CT" class2="N2" length="0.1463" k="100000"/>
+  <Bond class1="CT" class2="OH" length="0.141" k="100000"/>
+  <Bond class1="CT" class2="OS" length="0.141" k="100000"/>
+  <Bond class1="C*" class2="CB" length="0.1459" k="100000"/>
+  <Bond class1="C*" class2="CT" length="0.1495" k="100000"/>
+  <Bond class1="C*" class2="CW" length="0.1352" k="100000"/>
+  <Bond class1="CB" class2="CN" length="0.1419" k="100000"/>
+  <Bond class1="CC" class2="CT" length="0.1504" k="100000"/>
+  <Bond class1="CC" class2="CV" length="0.1375" k="100000"/>
+  <Bond class1="CC" class2="CW" length="0.1371" k="100000"/>
+  <Bond class1="CC" class2="NA" length="0.1385" k="100000"/>
+  <Bond class1="CC" class2="NB" length="0.1394" k="100000"/>
+  <Bond class1="CN" class2="NA" length="0.138" k="100000"/>
+  <Bond class1="CR" class2="NA" length="0.1343" k="100000"/>
+  <Bond class1="CR" class2="NB" length="0.1335" k="100000"/>
+  <Bond class1="CT" class2="N" length="0.1449" k="100000"/>
+  <Bond class1="CT" class2="N3" length="0.1471" k="100000"/>
+  <Bond class1="CT" class2="S" length="0.181" k="100000"/>
+  <Bond class1="CT" class2="SH" length="0.181" k="100000"/>
+  <Bond class1="CV" class2="NB" length="0.1394" k="100000"/>
+  <Bond class1="CW" class2="NA" length="0.1381" k="100000"/>
+  <Bond class1="O2" class2="P" length="0.148" k="100000"/>
+  <Bond class1="OH" class2="P" length="0.161" k="100000"/>
+  <Bond class1="OS" class2="P" length="0.161" k="100000"/>
+  <Bond class1="S" class2="S" length="0.2038" k="100000"/>
+  <Bond class1="CT" class2="C3" length="0.1526" k="100000"/>
+  <Bond class1="CT" class2="C4" length="0.1526" k="100000"/>
+  <Bond class1="C6" class2="O2" length="0.125" k="100000"/>
+  <Bond class1="CC" class2="O2" length="0.125" k="100000"/>
+  <Bond class1="C5" class2="O" length="0.1229" k="100000"/>
+  <Bond class1="C5" class2="N" length="0.1335" k="100000"/>
+  <Bond class1="C5" class2="CT" length="0.1522" k="100000"/>
+  <Bond class1="C6" class2="CT" length="0.1522" k="100000"/>
  </HarmonicBondForce>
  <HarmonicAngleForce>
-  <Angle class1="C" class2="C" class3="O" angle="2.0944" k="10"/>
-  <Angle class1="C" class2="C" class3="OH" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="C" class3="CA" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="C" class3="OH" angle="2.0944" k="10"/>
-  <Angle class1="CB" class2="C" class3="NA" angle="1.94255" k="10"/>
-  <Angle class1="CB" class2="C" class3="O" angle="2.24798" k="10"/>
-  <Angle class1="CM" class2="C" class3="NA" angle="1.99142" k="10"/>
-  <Angle class1="CM" class2="C" class3="O" angle="2.1869" k="10"/>
-  <Angle class1="CT" class2="C" class3="O" angle="2.10138" k="10"/>
-  <Angle class1="CT" class2="C" class3="O2" angle="2.04204" k="10"/>
-  <Angle class1="CT" class2="C" class3="N" angle="2.03505" k="10"/>
-  <Angle class1="CT" class2="C" class3="CT" angle="2.04204" k="10"/>
-  <Angle class1="CT" class2="C" class3="OS" angle="2.00713" k="10"/>
-  <Angle class1="CT" class2="C" class3="OH" angle="1.91986" k="10"/>
-  <Angle class1="N*" class2="C" class3="NA" angle="2.01411" k="10"/>
-  <Angle class1="N*" class2="C" class3="NC" angle="2.06996" k="10"/>
-  <Angle class1="N*" class2="C" class3="O" angle="2.1101" k="10"/>
-  <Angle class1="NA" class2="C" class3="O" angle="2.10487" k="10"/>
-  <Angle class1="NC" class2="C" class3="O" angle="2.13803" k="10"/>
-  <Angle class1="N" class2="C" class3="O" angle="2.14501" k="10"/>
-  <Angle class1="O" class2="C" class3="O" angle="2.19911" k="10"/>
-  <Angle class1="O" class2="C" class3="OH" angle="2.0944" k="10"/>
-  <Angle class1="O" class2="C" class3="OS" angle="2.18166" k="10"/>
-  <Angle class1="O2" class2="C" class3="O2" angle="2.19911" k="10"/>
-  <Angle class1="C" class2="CA" class3="CA" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="CA" class3="CA" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="CA" class3="CB" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="CA" class3="CT" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="CA" class3="OH" angle="2.0944" k="10"/>
-  <Angle class1="CA" class2="CA" class3="CN" angle="2.0944" k="10"/>
-  <Angle class1="CB" class2="CA" class3="N2" angle="2.15548" k="10"/>
-  <Angle class1="CB" class2="CA" class3="NC" angle="2.04727" k="10"/>
-  <Angle class1="CM" class2="CA" class3="N2" angle="2.09614" k="10"/>
-  <Angle class1="CM" class2="CA" class3="NC" angle="2.12058" k="10"/>
-  <Angle class1="NA" class2="CA" class3="NC" angle="2.15199" k="10"/>
-  <Angle class1="N2" class2="CA" class3="NA" angle="2.02458" k="10"/>
-  <Angle class1="N2" class2="CA" class3="NC" angle="2.08218" k="10"/>
-  <Angle class1="N2" class2="CA" class3="N2" angle="2.0944" k="10"/>
-  <Angle class1="C" class2="CB" class3="CB" angle="2.08043" k="10"/>
-  <Angle class1="C" class2="CB" class3="NB" angle="2.26893" k="10"/>
-  <Angle class1="CA" class2="CB" class3="CB" angle="2.04727" k="10"/>
-  <Angle class1="CA" class2="CB" class3="NB" angle="2.31082" k="10"/>
-  <Angle class1="CB" class2="CB" class3="N*" angle="1.85354" k="10"/>
-  <Angle class1="CB" class2="CB" class3="NB" angle="1.92684" k="10"/>
-  <Angle class1="CB" class2="CB" class3="NC" angle="2.22879" k="10"/>
-  <Angle class1="C*" class2="CB" class3="CA" angle="2.35445" k="10"/>
-  <Angle class1="C*" class2="CB" class3="CN" angle="1.89892" k="10"/>
-  <Angle class1="CA" class2="CB" class3="CN" angle="2.02807" k="10"/>
-  <Angle class1="N*" class2="CB" class3="NC" angle="2.20261" k="10"/>
-  <Angle class1="N*" class2="CK" class3="NB" angle="1.98793" k="10"/>
-  <Angle class1="C" class2="CM" class3="CM" angle="2.10661" k="10"/>
-  <Angle class1="C" class2="CM" class3="CT" angle="2.08916" k="10"/>
-  <Angle class1="CA" class2="CM" class3="CM" angle="2.04204" k="10"/>
-  <Angle class1="CM" class2="CM" class3="CT" angle="2.08916" k="10"/>
-  <Angle class1="CM" class2="CM" class3="N*" angle="2.11534" k="10"/>
-  <Angle class1="CM" class2="CM" class3="OS" angle="2.18166" k="10"/>
-  <Angle class1="NC" class2="CQ" class3="NC" angle="2.25322" k="10"/>
-  <Angle class1="C" class2="CT" class3="N" angle="1.92161" k="10"/>
-  <Angle class1="C" class2="CT" class3="N3" angle="1.94081" k="10"/>
-  <Angle class1="C" class2="CT" class3="CT" angle="1.93906" k="10"/>
-  <Angle class1="C" class2="CT" class3="OS" angle="1.91114" k="10"/>
-  <Angle class1="CC" class2="CT" class3="CT" angle="1.97397" k="10"/>
-  <Angle class1="CM" class2="CT" class3="CT" angle="1.93732" k="10"/>
-  <Angle class1="CM" class2="CT" class3="OS" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="CT" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="N*" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="OH" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="OS" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="S" angle="2.00189" k="10"/>
-  <Angle class1="CT" class2="CT" class3="SH" angle="1.89543" k="10"/>
-  <Angle class1="CT" class2="CT" class3="CA" angle="1.98968" k="10"/>
-  <Angle class1="CT" class2="CT" class3="N2" angle="1.94081" k="10"/>
-  <Angle class1="CT" class2="CT" class3="N" angle="1.91463" k="10"/>
-  <Angle class1="CT" class2="CT" class3="N3" angle="1.94081" k="10"/>
-  <Angle class1="C*" class2="CT" class3="CT" angle="2.0176" k="10"/>
-  <Angle class1="OS" class2="CT" class3="OS" angle="1.76278" k="10"/>
-  <Angle class1="OS" class2="CT" class3="N*" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CC" class3="NA" angle="2.0944" k="10"/>
-  <Angle class1="CT" class2="CC" class3="CV" angle="2.0944" k="10"/>
-  <Angle class1="CT" class2="CC" class3="NB" angle="2.0944" k="10"/>
-  <Angle class1="CV" class2="CC" class3="NA" angle="2.0944" k="10"/>
-  <Angle class1="CW" class2="CC" class3="NA" angle="2.0944" k="10"/>
-  <Angle class1="CW" class2="CC" class3="NB" angle="2.0944" k="10"/>
-  <Angle class1="CT" class2="CC" class3="CW" angle="2.0944" k="10"/>
-  <Angle class1="NA" class2="CR" class3="NA" angle="2.0944" k="10"/>
-  <Angle class1="NA" class2="CR" class3="NB" angle="2.0944" k="10"/>
-  <Angle class1="CC" class2="CV" class3="NB" angle="2.0944" k="10"/>
-  <Angle class1="CC" class2="CW" class3="NA" angle="2.0944" k="10"/>
-  <Angle class1="C*" class2="CW" class3="NA" angle="1.89717" k="10"/>
-  <Angle class1="CB" class2="C*" class3="CT" angle="2.24449" k="10"/>
-  <Angle class1="CB" class2="C*" class3="CW" angle="1.85703" k="10"/>
-  <Angle class1="CT" class2="C*" class3="CW" angle="2.18166" k="10"/>
-  <Angle class1="CA" class2="CN" class3="CB" angle="2.14152" k="10"/>
-  <Angle class1="CA" class2="CN" class3="NA" angle="2.3178" k="10"/>
-  <Angle class1="CB" class2="CN" class3="NA" angle="1.82212" k="10"/>
-  <Angle class1="C" class2="N" class3="CT" angle="2.12756" k="10"/>
-  <Angle class1="CT" class2="N" class3="CT" angle="2.05949" k="10"/>
-  <Angle class1="C" class2="N*" class3="CM" angle="2.12232" k="10"/>
-  <Angle class1="C" class2="N*" class3="CT" angle="2.05251" k="10"/>
-  <Angle class1="CB" class2="N*" class3="CK" angle="1.83958" k="10"/>
-  <Angle class1="CB" class2="N*" class3="CT" angle="2.19562" k="10"/>
-  <Angle class1="CK" class2="N*" class3="CT" angle="2.24798" k="10"/>
-  <Angle class1="CM" class2="N*" class3="CT" angle="2.11534" k="10"/>
-  <Angle class1="CA" class2="N2" class3="CT" angle="2.15025" k="10"/>
-  <Angle class1="CT" class2="N3" class3="CT" angle="1.91114" k="10"/>
-  <Angle class1="C" class2="NA" class3="C" angle="2.2061" k="10"/>
-  <Angle class1="C" class2="NA" class3="CA" angle="2.18515" k="10"/>
-  <Angle class1="CC" class2="NA" class3="CR" angle="2.0944" k="10"/>
-  <Angle class1="CR" class2="NA" class3="CW" angle="2.0944" k="10"/>
-  <Angle class1="CN" class2="NA" class3="CW" angle="1.94779" k="10"/>
-  <Angle class1="CB" class2="NB" class3="CK" angle="1.81165" k="10"/>
-  <Angle class1="CC" class2="NB" class3="CR" angle="2.04204" k="10"/>
-  <Angle class1="CR" class2="NB" class3="CV" angle="2.04204" k="10"/>
-  <Angle class1="C" class2="NC" class3="CA" angle="2.10312" k="10"/>
-  <Angle class1="CA" class2="NC" class3="CB" angle="1.95826" k="10"/>
-  <Angle class1="CA" class2="NC" class3="CQ" angle="2.06996" k="10"/>
-  <Angle class1="CB" class2="NC" class3="CQ" angle="1.93732" k="10"/>
-  <Angle class1="C" class2="OS" class3="CT" angle="2.04204" k="10"/>
-  <Angle class1="CM" class2="OS" class3="CT" angle="2.04204" k="10"/>
-  <Angle class1="CT" class2="OS" class3="CT" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="OS" class3="P" angle="2.10312" k="10"/>
-  <Angle class1="P" class2="OS" class3="P" angle="2.10312" k="10"/>
-  <Angle class1="O2" class2="P" class3="OH" angle="1.88897" k="10"/>
-  <Angle class1="O2" class2="P" class3="O2" angle="2.09265" k="10"/>
-  <Angle class1="O2" class2="P" class3="OS" angle="1.88897" k="10"/>
-  <Angle class1="OH" class2="P" class3="OS" angle="1.79071" k="10"/>
-  <Angle class1="OS" class2="P" class3="OS" angle="1.79071" k="10"/>
-  <Angle class1="CT" class2="S" class3="CT" angle="1.72613" k="10"/>
-  <Angle class1="CT" class2="S" class3="S" angle="1.80991" k="10"/>
-  <Angle class1="CT" class2="C5" class3="O" angle="2.10138" k="10"/>
-  <Angle class1="CT" class2="C6" class3="O2" angle="2.04204" k="10"/>
-  <Angle class1="CT" class2="CC" class3="O2" angle="2.04204" k="10"/>
-  <Angle class1="CT" class2="C5" class3="N" angle="2.03505" k="10"/>
-  <Angle class1="N" class2="C5" class3="O" angle="2.14501" k="10"/>
-  <Angle class1="O2" class2="C6" class3="O2" angle="2.19911" k="10"/>
-  <Angle class1="O2" class2="CC" class3="O2" angle="2.19911" k="10"/>
-  <Angle class1="C5" class2="CT" class3="CT" angle="1.93906" k="10"/>
-  <Angle class1="C6" class2="CT" class3="CT" angle="1.93906" k="10"/>
-  <Angle class1="CT" class2="C4" class3="CT" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="C4" angle="1.91114" k="10"/>
-  <Angle class1="CT" class2="CT" class3="C3" angle="1.91114" k="10"/>
+  <Angle class1="C" class2="C" class3="O" angle="2.0944" k="100"/>
+  <Angle class1="C" class2="C" class3="OH" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="C" class3="CA" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="C" class3="OH" angle="2.0944" k="100"/>
+  <Angle class1="CB" class2="C" class3="NA" angle="1.94255" k="100"/>
+  <Angle class1="CB" class2="C" class3="O" angle="2.24798" k="100"/>
+  <Angle class1="CM" class2="C" class3="NA" angle="1.99142" k="100"/>
+  <Angle class1="CM" class2="C" class3="O" angle="2.1869" k="100"/>
+  <Angle class1="CT" class2="C" class3="O" angle="2.10138" k="100"/>
+  <Angle class1="CT" class2="C" class3="O2" angle="2.04204" k="100"/>
+  <Angle class1="CT" class2="C" class3="N" angle="2.03505" k="100"/>
+  <Angle class1="CT" class2="C" class3="CT" angle="2.04204" k="100"/>
+  <Angle class1="CT" class2="C" class3="OS" angle="2.00713" k="100"/>
+  <Angle class1="CT" class2="C" class3="OH" angle="1.91986" k="100"/>
+  <Angle class1="N*" class2="C" class3="NA" angle="2.01411" k="100"/>
+  <Angle class1="N*" class2="C" class3="NC" angle="2.06996" k="100"/>
+  <Angle class1="N*" class2="C" class3="O" angle="2.1101" k="100"/>
+  <Angle class1="NA" class2="C" class3="O" angle="2.10487" k="100"/>
+  <Angle class1="NC" class2="C" class3="O" angle="2.13803" k="100"/>
+  <Angle class1="N" class2="C" class3="O" angle="2.14501" k="100"/>
+  <Angle class1="O" class2="C" class3="O" angle="2.19911" k="100"/>
+  <Angle class1="O" class2="C" class3="OH" angle="2.0944" k="100"/>
+  <Angle class1="O" class2="C" class3="OS" angle="2.18166" k="100"/>
+  <Angle class1="O2" class2="C" class3="O2" angle="2.19911" k="100"/>
+  <Angle class1="C" class2="CA" class3="CA" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="CA" class3="CA" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="CA" class3="CB" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="CA" class3="CT" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="CA" class3="OH" angle="2.0944" k="100"/>
+  <Angle class1="CA" class2="CA" class3="CN" angle="2.0944" k="100"/>
+  <Angle class1="CB" class2="CA" class3="N2" angle="2.15548" k="100"/>
+  <Angle class1="CB" class2="CA" class3="NC" angle="2.04727" k="100"/>
+  <Angle class1="CM" class2="CA" class3="N2" angle="2.09614" k="100"/>
+  <Angle class1="CM" class2="CA" class3="NC" angle="2.12058" k="100"/>
+  <Angle class1="NA" class2="CA" class3="NC" angle="2.15199" k="100"/>
+  <Angle class1="N2" class2="CA" class3="NA" angle="2.02458" k="100"/>
+  <Angle class1="N2" class2="CA" class3="NC" angle="2.08218" k="100"/>
+  <Angle class1="N2" class2="CA" class3="N2" angle="2.0944" k="100"/>
+  <Angle class1="C" class2="CB" class3="CB" angle="2.08043" k="100"/>
+  <Angle class1="C" class2="CB" class3="NB" angle="2.26893" k="100"/>
+  <Angle class1="CA" class2="CB" class3="CB" angle="2.04727" k="100"/>
+  <Angle class1="CA" class2="CB" class3="NB" angle="2.31082" k="100"/>
+  <Angle class1="CB" class2="CB" class3="N*" angle="1.85354" k="100"/>
+  <Angle class1="CB" class2="CB" class3="NB" angle="1.92684" k="100"/>
+  <Angle class1="CB" class2="CB" class3="NC" angle="2.22879" k="100"/>
+  <Angle class1="C*" class2="CB" class3="CA" angle="2.35445" k="100"/>
+  <Angle class1="C*" class2="CB" class3="CN" angle="1.89892" k="100"/>
+  <Angle class1="CA" class2="CB" class3="CN" angle="2.02807" k="100"/>
+  <Angle class1="N*" class2="CB" class3="NC" angle="2.20261" k="100"/>
+  <Angle class1="N*" class2="CK" class3="NB" angle="1.98793" k="100"/>
+  <Angle class1="C" class2="CM" class3="CM" angle="2.10661" k="100"/>
+  <Angle class1="C" class2="CM" class3="CT" angle="2.08916" k="100"/>
+  <Angle class1="CA" class2="CM" class3="CM" angle="2.04204" k="100"/>
+  <Angle class1="CM" class2="CM" class3="CT" angle="2.08916" k="100"/>
+  <Angle class1="CM" class2="CM" class3="N*" angle="2.11534" k="100"/>
+  <Angle class1="CM" class2="CM" class3="OS" angle="2.18166" k="100"/>
+  <Angle class1="NC" class2="CQ" class3="NC" angle="2.25322" k="100"/>
+  <Angle class1="C" class2="CT" class3="N" angle="1.92161" k="100"/>
+  <Angle class1="C" class2="CT" class3="N3" angle="1.94081" k="100"/>
+  <Angle class1="C" class2="CT" class3="CT" angle="1.93906" k="100"/>
+  <Angle class1="C" class2="CT" class3="OS" angle="1.91114" k="100"/>
+  <Angle class1="CC" class2="CT" class3="CT" angle="1.97397" k="100"/>
+  <Angle class1="CM" class2="CT" class3="CT" angle="1.93732" k="100"/>
+  <Angle class1="CM" class2="CT" class3="OS" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="CT" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="N*" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="OH" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="OS" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="S" angle="2.00189" k="100"/>
+  <Angle class1="CT" class2="CT" class3="SH" angle="1.89543" k="100"/>
+  <Angle class1="CT" class2="CT" class3="CA" angle="1.98968" k="100"/>
+  <Angle class1="CT" class2="CT" class3="N2" angle="1.94081" k="100"/>
+  <Angle class1="CT" class2="CT" class3="N" angle="1.91463" k="100"/>
+  <Angle class1="CT" class2="CT" class3="N3" angle="1.94081" k="100"/>
+  <Angle class1="C*" class2="CT" class3="CT" angle="2.0176" k="100"/>
+  <Angle class1="OS" class2="CT" class3="OS" angle="1.76278" k="100"/>
+  <Angle class1="OS" class2="CT" class3="N*" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CC" class3="NA" angle="2.0944" k="100"/>
+  <Angle class1="CT" class2="CC" class3="CV" angle="2.0944" k="100"/>
+  <Angle class1="CT" class2="CC" class3="NB" angle="2.0944" k="100"/>
+  <Angle class1="CV" class2="CC" class3="NA" angle="2.0944" k="100"/>
+  <Angle class1="CW" class2="CC" class3="NA" angle="2.0944" k="100"/>
+  <Angle class1="CW" class2="CC" class3="NB" angle="2.0944" k="100"/>
+  <Angle class1="CT" class2="CC" class3="CW" angle="2.0944" k="100"/>
+  <Angle class1="NA" class2="CR" class3="NA" angle="2.0944" k="100"/>
+  <Angle class1="NA" class2="CR" class3="NB" angle="2.0944" k="100"/>
+  <Angle class1="CC" class2="CV" class3="NB" angle="2.0944" k="100"/>
+  <Angle class1="CC" class2="CW" class3="NA" angle="2.0944" k="100"/>
+  <Angle class1="C*" class2="CW" class3="NA" angle="1.89717" k="100"/>
+  <Angle class1="CB" class2="C*" class3="CT" angle="2.24449" k="100"/>
+  <Angle class1="CB" class2="C*" class3="CW" angle="1.85703" k="100"/>
+  <Angle class1="CT" class2="C*" class3="CW" angle="2.18166" k="100"/>
+  <Angle class1="CA" class2="CN" class3="CB" angle="2.14152" k="100"/>
+  <Angle class1="CA" class2="CN" class3="NA" angle="2.3178" k="100"/>
+  <Angle class1="CB" class2="CN" class3="NA" angle="1.82212" k="100"/>
+  <Angle class1="C" class2="N" class3="CT" angle="2.12756" k="100"/>
+  <Angle class1="CT" class2="N" class3="CT" angle="2.05949" k="100"/>
+  <Angle class1="C" class2="N*" class3="CM" angle="2.12232" k="100"/>
+  <Angle class1="C" class2="N*" class3="CT" angle="2.05251" k="100"/>
+  <Angle class1="CB" class2="N*" class3="CK" angle="1.83958" k="100"/>
+  <Angle class1="CB" class2="N*" class3="CT" angle="2.19562" k="100"/>
+  <Angle class1="CK" class2="N*" class3="CT" angle="2.24798" k="100"/>
+  <Angle class1="CM" class2="N*" class3="CT" angle="2.11534" k="100"/>
+  <Angle class1="CA" class2="N2" class3="CT" angle="2.15025" k="100"/>
+  <Angle class1="CT" class2="N3" class3="CT" angle="1.91114" k="100"/>
+  <Angle class1="C" class2="NA" class3="C" angle="2.2061" k="100"/>
+  <Angle class1="C" class2="NA" class3="CA" angle="2.18515" k="100"/>
+  <Angle class1="CC" class2="NA" class3="CR" angle="2.0944" k="100"/>
+  <Angle class1="CR" class2="NA" class3="CW" angle="2.0944" k="100"/>
+  <Angle class1="CN" class2="NA" class3="CW" angle="1.94779" k="100"/>
+  <Angle class1="CB" class2="NB" class3="CK" angle="1.81165" k="100"/>
+  <Angle class1="CC" class2="NB" class3="CR" angle="2.04204" k="100"/>
+  <Angle class1="CR" class2="NB" class3="CV" angle="2.04204" k="100"/>
+  <Angle class1="C" class2="NC" class3="CA" angle="2.10312" k="100"/>
+  <Angle class1="CA" class2="NC" class3="CB" angle="1.95826" k="100"/>
+  <Angle class1="CA" class2="NC" class3="CQ" angle="2.06996" k="100"/>
+  <Angle class1="CB" class2="NC" class3="CQ" angle="1.93732" k="100"/>
+  <Angle class1="C" class2="OS" class3="CT" angle="2.04204" k="100"/>
+  <Angle class1="CM" class2="OS" class3="CT" angle="2.04204" k="100"/>
+  <Angle class1="CT" class2="OS" class3="CT" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="OS" class3="P" angle="2.10312" k="100"/>
+  <Angle class1="P" class2="OS" class3="P" angle="2.10312" k="100"/>
+  <Angle class1="O2" class2="P" class3="OH" angle="1.88897" k="100"/>
+  <Angle class1="O2" class2="P" class3="O2" angle="2.09265" k="100"/>
+  <Angle class1="O2" class2="P" class3="OS" angle="1.88897" k="100"/>
+  <Angle class1="OH" class2="P" class3="OS" angle="1.79071" k="100"/>
+  <Angle class1="OS" class2="P" class3="OS" angle="1.79071" k="100"/>
+  <Angle class1="CT" class2="S" class3="CT" angle="1.72613" k="100"/>
+  <Angle class1="CT" class2="S" class3="S" angle="1.80991" k="100"/>
+  <Angle class1="CT" class2="C5" class3="O" angle="2.10138" k="100"/>
+  <Angle class1="CT" class2="C6" class3="O2" angle="2.04204" k="100"/>
+  <Angle class1="CT" class2="CC" class3="O2" angle="2.04204" k="100"/>
+  <Angle class1="CT" class2="C5" class3="N" angle="2.03505" k="100"/>
+  <Angle class1="N" class2="C5" class3="O" angle="2.14501" k="100"/>
+  <Angle class1="O2" class2="C6" class3="O2" angle="2.19911" k="100"/>
+  <Angle class1="O2" class2="CC" class3="O2" angle="2.19911" k="100"/>
+  <Angle class1="C5" class2="CT" class3="CT" angle="1.93906" k="100"/>
+  <Angle class1="C6" class2="CT" class3="CT" angle="1.93906" k="100"/>
+  <Angle class1="CT" class2="C4" class3="CT" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="C4" angle="1.91114" k="100"/>
+  <Angle class1="CT" class2="CT" class3="C3" angle="1.91114" k="100"/>
  </HarmonicAngleForce>
  <PeriodicTorsionForce>
   <Proper class1="" class2="C6" class3="CT" class4=""  periodicity1="2" phase1="0" k1="0" />
@@ -4272,8 +4272,8 @@
  </PeriodicTorsionForce>
  <Script>
 import openmm as mm
-nb = mm.CustomNonbondedForce('C/((r/0.2)^4+1)')
-nb.addGlobalParameter('C', 1.0)
+nb = mm.CustomNonbondedForce('C/((r/0.2)^2+1)')
+nb.addGlobalParameter('C', 0.01)
 sys.addForce(nb)
 for i in range(sys.getNumParticles()):
     nb.addParticle([])
