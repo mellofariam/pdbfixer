@@ -1307,8 +1307,8 @@ class PDBFixer(object):
                     # Some atoms are very close together.  Run some dynamics while slowly increasing the strength of the
                     # repulsive interaction to try to improve the result.
 
-                    for i in range(10):
-                        context.setParameter('C', 0.15*(i+1))
+                    for i in range(20):
+                        context.setParameter('C', 0.01 + (i+1) * 0.10)
                         integrator.step(200)
                         d = self._findNearestDistance(context, newAtoms, cutoff, exclusions)
                         if d > nearest:
@@ -1318,7 +1318,7 @@ class PDBFixer(object):
                                 break
                     context.setState(state)
                     context.setParameter('C', 1.0)
-                    mm.LocalEnergyMinimizer.minimize(context)
+                    mm.LocalEnergyMinimizer.minimize(context, tolerance=1e-5)
                     state = context.getState(getPositions=True)
 
             # Now create a new Topology, including all atoms from the original one and adding the missing atoms.
